@@ -1,11 +1,11 @@
 # Site settings
-author: aurel fontaine
-title: 
+author: Aurel Fontaine
+title: Why did I want to be a Software Engineer?
 header-img: img/home-bg.png
 email: ajfame11@gmail.com
-copyright_name: aurel fontaine
+copyright_name: Aurel Fontaine
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Why did I want to be a Software Engineer?
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  ajfame11
