@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "My Tic-Tact-Toe JS-project"
-date:       2021-02-07 23:32:59 +0000
+date:       2021-02-07 18:33:00 -0500
 permalink:  my_tic-tact-toe_js-project
 ---
 
